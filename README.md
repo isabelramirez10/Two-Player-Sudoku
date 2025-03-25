@@ -1,5 +1,4 @@
-# Welcome to my GitHub Project
-#Two-Player Sudoku!
+# Welcome to my GitHub Project - Two-Player Sudoku!
 What is two player sudoku?
 - Two-Player Sudoku is a game in which two users can play Sudoku, each getting one turn at a time.
 - It is broken down into 9 3x3 blocks with numbers 1-9 
