@@ -1,0 +1,15 @@
+Release Notes for Two-Player Sudoku
+
+v1.0.0 - Initial Release (January 2025)
+---------------------------------------
+- First release of Two-Player Sudoku game in C++.
+- Players can alternate turns in solving Sudoku puzzles.
+- Basic input validation and error handling for incorrect inputs.
+- Game flow includes prompts when an input is invalid, allowing for turn switching.
+
+v1.1.0 - Bug Fixes and Features (February 2025)
+----------------------------------------------
+- Fixed a bug where the game would crash when non-numeric characters were entered.
+- Added a restart game option to allow players to restart without quitting the application.
+- Improved error messages for better user feedback on invalid input.
+- Minor performance optimizations.
