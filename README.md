@@ -4,7 +4,7 @@ The full text of the MIT License can be found at: [LICENSE](https://github.com/i
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/isabelramirez10/Two-Player-Sudoku/badge)](https://scorecard.dev/viewer/?uri=github.com/isabelramirez10/Two-Player-Sudoku)
 
-[![OpenSSF Best Practices](https://api.bestpractice.dev/projects/github.com/isabelramirez10/Two-Player-Sudoku/badge)](https://bestpractice.dev/viewer/?uri=github.com/isabelramirez10/Two-Player-Sudoku)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10338/badge)](https://www.bestpractices.dev/projects/10338)
 
 ## What is Two-Player Sudoku?
 - Two-Player Sudoku is a game in which two users can play Sudoku, each getting one turn at a time.
