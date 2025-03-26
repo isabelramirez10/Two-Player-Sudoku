@@ -1,0 +1,2 @@
+To report bugs, go to 
+(https://github.com/opennebula/one/wiki/How-to-Report-Bugs-and-Make-Feature-Requests#ReportBug)
