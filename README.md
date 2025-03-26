@@ -1,5 +1,7 @@
 # Welcome to my GitHub Project - Two-Player Sudoku!
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/isabelramirez10/Two-Player-Sudoku/badge)](https://scorecard.dev/viewer/?uri=https://github.com/isabelramirez10/Two-Player-Sudoku)
+[![OpenSSF Best Scores](https://api.bestscore.dev/projects/github.com/isabelramirez10/Two-Player-Sudoku/badge)](https://bestscore.dev/viewer/?uri=github.com/isabelramirez10/Two-Player-Sudoku)
+
 
 What is two player sudoku?
 - Two-Player Sudoku is a game in which two users can play Sudoku, each getting one turn at a time.
