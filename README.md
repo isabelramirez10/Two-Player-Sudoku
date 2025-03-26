@@ -15,3 +15,11 @@ This was created as a project to showcase progress in learning the C++ coding la
 
  Who created this project?
  - Isabel Ramirez and Gabriela Diaz
+
+#Issues and Bug Reports
+[How to Report Bugs and Make Feature Requests](https://github.com/opennebula/one/wiki/How-to-Report-Bugs-and-Make-Feature-Requests#ReportBug)
+
+#Language
+The documentation, comments, bug reports and fixes are in English.
+
+#License
