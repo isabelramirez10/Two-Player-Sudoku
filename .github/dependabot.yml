@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # Can be "npm", "maven", "ruby", etc.
+    directory: "/" # Location of package.json
+    schedule:
+      interval: "weekly" # Options are "daily", "weekly", "monthly"
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
